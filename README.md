@@ -1,2 +1,2 @@
-# studioAnna
-Studio de Ana, Personal Shop
+Studio de Ana
+Personal Shop
